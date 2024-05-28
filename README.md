@@ -9,11 +9,11 @@
 
 you can play your favorite music from Do1 to Si2
 
-** Skematic of the project **
+**Skematic of the project**
 
 ![image](https://github.com/phamhduc/Piarduino/assets/101264143/3e03dd34-4ba3-41de-a110-2923eadad089)
 
-** PCB design for keypad using pull-up resistor **
+**PCB design for keypad using pull-up resistor**
 
 ![image](https://github.com/phamhduc/Piarduino/assets/101264143/63daed0d-b656-45de-8db3-823415f4e029)
 
