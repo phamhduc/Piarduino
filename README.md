@@ -1,5 +1,5 @@
 # Piarduino
-* This project is built an electrical Piano from arduino
+* This project is built an electric Piano from arduino
 * Using tone function from arduino library to control the sound of the buzzor
 ## About this project
 
